@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987174803676",
+    "firebase_url": "https://loginsignupscreendesignd-300f0.firebaseio.com",
+    "project_id": "loginsignupscreendesignd-300f0",
+    "storage_bucket": "loginsignupscreendesignd-300f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987174803676:android:806f6b00de6ffef3697c19",
+        "android_client_info": {
+          "package_name": "com.login_signup_screendesign_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987174803676-rn87kbuh3g2c8gm8kbdii6q498v7bq4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login_signup_screendesign_demo",
+            "certificate_hash": "715f8097bafedfec19f97ac70c4181454115c99e"
+          }
+        },
+        {
+          "client_id": "987174803676-e8eqkfsacolar5u4v907uj29cuc2cnju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBei6-1qy8r3qI5fU1ZzXLWI2frIL1AUy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987174803676-e8eqkfsacolar5u4v907uj29cuc2cnju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
